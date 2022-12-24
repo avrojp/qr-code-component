@@ -44,9 +44,11 @@ p {
   padding: 12px;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
+
 .qr-code {
   border-radius: 6px;
 }
+
 .qr-panel {
   margin-top: 5px;
   padding: 7px;
@@ -55,11 +57,13 @@ p {
   flex-direction: column;
   justify-content: space-between;
 }
-.qr-panel-h2 {
+
+.qr-panel-h1 {
   font-size: 20px;
   color: var(--dblue);
   margin-bottom: 13px;
 }
+
 .qr-panel-details {
   font-size: 17px;
   color: var(--gblue);
